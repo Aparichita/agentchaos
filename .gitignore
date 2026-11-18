@@ -1,0 +1,19 @@
+
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Go
+*.exe
+/proxy/bin/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
